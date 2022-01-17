@@ -1,6 +1,6 @@
 # ConcesionariaDeAutos
 
-Este es un Ejercicio completo de JavaScript , la idea es realizarlo sin necesidad de ver el app.js ni la solucion , estos arhivos estan como guia.
+Este es un Ejercicio completo de JavaScript , la idea es realizarlo sin necesidad de ver el app.js ni la solucion , estos archivos estan como guia.
 
 
 EJERCICIO: 
